@@ -15,3 +15,8 @@
 <p align="center">
   <a href="https://t.me/xlebsos" style="color: red;">[𝘐𝘕𝘍𝘖]</a>
 </p>
+
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=BR1EADCUTTER&color=red)
