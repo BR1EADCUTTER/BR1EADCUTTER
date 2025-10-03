@@ -19,4 +19,3 @@
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=BR1EADCUTTER&color=red)
