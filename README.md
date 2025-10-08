@@ -11,7 +11,6 @@
        style="border-radius: 10px;">
   </a>
   
-  <img src="https://komarev.com/ghpvc/?username=BR1EADCUTTER&color=8B0000&style=for-the-badge" 
-       alt="Profile Views" />
+  ![](https://komarev.com/ghpvc/?username=BR1EADCUTTER&label=Profile+views&color=9F0000&style=flat-square) 
 
 </div>
