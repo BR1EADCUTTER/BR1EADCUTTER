@@ -9,6 +9,10 @@
   &nbsp;—&nbsp;
   <a href="https://t.me/xlebsos" target="_blank"><b>INFO</b></a>
 </p>
+<p align="center">
+໒꒱    ꔛ          Ⳋ    𐚁‌
+</p>
+<p align="center">
   <p align="center">
-  <img src="https://i.postimg.cc/x1QNxHGF/Picsart-25-12-01-06-20-10-577.png" >
+  <img src="https://i.postimg.cc/P5y72zWz/IMG-20251202-001239-404.jpg" >
 </p>  
