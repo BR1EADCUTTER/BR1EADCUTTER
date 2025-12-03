@@ -5,10 +5,11 @@
 </p>
   
 <p align="center">
-  <a href="https://xlebs.atabook.org/" target="_blank"><b>ATAbook</b></a>
-  &nbsp;—&nbsp;
-  <a href="https://t.me/xlebsos" target="_blank"><b>INFO</b></a>
-</p>
+⌞  <a href="https://xlebs.atabook.org/" target="_blank"><b>𝘢𝘵𝘢𝘣𝘰𝘰𝘬</b></a>
+  &nbsp;જ&nbsp;
+  <a href="https://t.me/xlebsos" target="_blank"><b>𝘪𝘯𝘧𝘰</b></a> ⌟
+</p> 
+
 <p align="center">
 ໒꒱    ꔛ          Ⳋ    𐚁‌
 </p>
