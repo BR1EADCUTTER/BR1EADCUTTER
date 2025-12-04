@@ -8,7 +8,9 @@
 <p align="center">
 ⌞  <a href="https://xlebs.atabook.org/" target="_blank"><b>𝘢𝘵𝘢𝘣𝘰𝘰𝘬</b></a>
   &nbsp;જ&nbsp;
-  <a href="https://t.me/xlebsos" target="_blank"><b>𝘪𝘯𝘧𝘰</b></a> ⌟
+  <a href="https://t.me/xlebsos" target="_blank"><b>𝘪𝘯𝘧𝘰</b></a> જ
+<a href="https://guns.lol/xlebss" target="_blank"><b>𝘨𝘶𝘯𝘴.𝘭𝘰𝘭</b></a>
+  &nbsp;⌟&nbsp;
 </p> 
 <p align="center">
   <p align="center">
