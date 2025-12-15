@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=BR1EADCUTTER&label=Profile+views&color=4a2261&style=flat-square" alt="Profile Views">
 <p align="center">
-  <img src="https://i.postimg.cc/vT2gCqrG/IMG-20251130-234750-424.png" alt="Image 1" width="420">
+  <img src="https://i.postimg.cc/T3x6ZjKC/1000049872.jpg" alt="Image 1" width="900">
 </p>
 <p align="center">
   𝘞𝘦 𝘸𝘪𝘭𝘭 𝘥𝘦𝘧𝘪𝘯𝘪𝘵𝘦𝘭𝘺 𝘮𝘦𝘦𝘵 𝘢𝘨𝘢𝘪𝘯, 𝘮𝘺 𝘭𝘰𝘷𝘦. 
@@ -14,5 +14,5 @@
 </p> 
 <p align="center">
   <p align="center">
-  <img src="https://i.postimg.cc/28mnBPy0/24624f04-2e05-46a6-bf1f-a2890a4de5b4.jpg" >
+  <img src="https://i.postimg.cc/3Nh1Kw2M/1000049177.jpg" alt="Image 1" width="600">
 </p>  
