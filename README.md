@@ -14,5 +14,5 @@
 </p> 
 <p align="center">
   <p align="center">
-  <img src="https://i.postimg.cc/3Nh1Kw2M/1000049177.jpg" alt="Image 1" width="600">
+  <img src="https://i.postimg.cc/3Nh1Kw2M/1000049177.jpg" alt="Image 1" width="500">
 </p>  
