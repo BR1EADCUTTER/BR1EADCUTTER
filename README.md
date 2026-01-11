@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/J7jpjNTd/Picsart-25-12-21-06-33-49-703.png" alt="Image 1" width="900">
+  <img src="https://i.postimg.cc/VvjTYqFH/e1ea470b-5648-42d0-979b-4d4a9535e707.png" alt="Image 1" width="900">
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=BR1EADCUTTER&label=Profile+views&color=5dc9c9&style=flat-square" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=BR1EADCUTTER&label=Profile+views&color=c0c7b0&style=flat-square" alt="Profile Views">
     <p align="center">
   · · ────── ꒰ঌ·✦·໒꒱ ────── · ·
   <p align="center">
